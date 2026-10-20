@@ -2,7 +2,7 @@
 
 # dependencies
 node_modules/
-
+.claude/
 # Expo
 .expo/
 dist/
@@ -41,3 +41,4 @@ example
 # generated native folders
 /ios
 /android
+config.bat
